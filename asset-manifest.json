@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/dhy-consult/static/css/main.6c3e0f04.css",
+    "main.js": "/dhy-consult/static/js/main.3914bc41.js",
+    "static/media/foto-nosotros.jpg": "/dhy-consult/static/media/foto-nosotros.e7a41c97f25ba5d10ea7.jpg",
+    "static/media/img-first.jpg": "/dhy-consult/static/media/img-first.1ab8cae65eee3ce9001d.jpg",
+    "static/media/img-cinco.png": "/dhy-consult/static/media/img-cinco.2600b6a8371c54e240b8.png",
+    "static/media/img-second.jpg": "/dhy-consult/static/media/img-second.a794ab449682be31bf6d.jpg",
+    "static/media/img-cuatro.png": "/dhy-consult/static/media/img-cuatro.000534687060f2f2d7b7.png",
+    "static/media/img-inv2.png": "/dhy-consult/static/media/img-inv2.fcd1ab4bcc7526007760.png",
+    "static/media/foto-camion.jpg": "/dhy-consult/static/media/foto-camion.abfc084f833879697dea.jpg",
+    "static/media/Imagen11.jpg": "/dhy-consult/static/media/Imagen11.802af0198024295353f5.jpg",
+    "static/media/img-nueve.png": "/dhy-consult/static/media/img-nueve.062bf02da1d54aeb227e.png",
+    "static/media/img-dos.png": "/dhy-consult/static/media/img-dos.5f836509dfcf7a9a2058.png",
+    "static/media/img-ocho.png": "/dhy-consult/static/media/img-ocho.efa479b3fae92c0bcbe5.png",
+    "static/media/img-once.png": "/dhy-consult/static/media/img-once.af608c6b1a58b6330b87.png",
+    "static/media/img-inv1.png": "/dhy-consult/static/media/img-inv1.8ca7578aedb766228132.png",
+    "static/media/img-doce.png": "/dhy-consult/static/media/img-doce.0bfead6e859d37a8d197.png",
+    "static/media/img-seis.png": "/dhy-consult/static/media/img-seis.faafbf580dff9bf34a65.png",
+    "static/media/img-siete.png": "/dhy-consult/static/media/img-siete.7323891e9adf42726646.png",
+    "static/media/img-uno.png": "/dhy-consult/static/media/img-uno.99069d399e5527022f48.png",
+    "static/media/img-five.jpg": "/dhy-consult/static/media/img-five.5de7555c7cb27c95d985.jpg",
+    "static/media/img-four.jpg": "/dhy-consult/static/media/img-four.17e84b392a795f26f81f.jpg",
+    "static/media/img-tres.png": "/dhy-consult/static/media/img-tres.8f322b9acd59a5d6c651.png",
+    "static/media/whatsapp.png": "/dhy-consult/static/media/whatsapp.c0139bed7dc4beda41a1.png",
+    "index.html": "/dhy-consult/index.html",
+    "main.6c3e0f04.css.map": "/dhy-consult/static/css/main.6c3e0f04.css.map",
+    "main.3914bc41.js.map": "/dhy-consult/static/js/main.3914bc41.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c3e0f04.css",
+    "static/js/main.3914bc41.js"
+  ]
+}
