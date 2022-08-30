@@ -1,0 +1,40 @@
+.contenedor-subcontenido {
+    min-width: 20%;
+    min-height: 380px;
+    margin: 20px 20px 20px 20px;    
+    font-size: 1rem;   
+    padding: 10px;
+    box-shadow: 0 3px 13px 1px rgb(0 0 0 / 9%);
+    color: white;
+    background-color: rgb(41, 41, 41);
+    border-radius: 5px;
+}
+
+.imagen-subcontenido {
+    width: 90%;
+    height: auto;    
+    margin: 20px 20px 20px 20px;
+    justify-content: center;
+    
+}
+
+.texto-subcontenido {
+  margin: 20px 20px 20px 20px;
+  text-align:justify;
+  font-size: 0.9rem;
+}
+
+.icono-subcontenido {
+  margin: 20px 20px 20px 20px;
+  text-align:justify;
+  font-size: 1.2rem;
+  
+  
+}
+
+@media screen and (max-width:700px) {
+    .contenedor-subcontenido {
+      display: inline-block;
+    }
+    
+  }

@@ -1,0 +1,206 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+  background-color: #f5f6f7;
+  font-size: 18px;
+}
+
+hi {
+  max-width: 940px;
+  font-size: 2.5rem;
+  font-family: Lato, sans-serif;
+  font-weight: 700;
+  line-height: 1.1;
+  margin: 40px 0;
+}
+
+.App {
+  min-height: 100vh;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  text-align: center;  
+}
+
+
+
+.Contenedor-principal {
+  min-height: 100%;
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center; 
+  
+}
+
+
+
+.footer {
+  display:flex; 
+  width: 100%;
+  height:auto;  
+  align-items:center;
+  justify-content: center;
+  background-color: #dcdce0;
+  color: #1b1b32;
+  justify-content:space-between ;
+  padding: 40px;
+  
+}
+
+@media screen and (max-width:800px) {
+  .footer {
+    display: inline-block;
+    align-content: center;
+    justify-content:  center;
+    padding: 0px;
+  }
+}
+
+.encabezado-pagina {
+  width: 100%;
+  max-height: 150px;  
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center; 
+  background-color:black;
+  justify-content: space-between;   
+  
+  /* box-shadow: 0 3px 13px 1px rgb(0 0 0 / 9%); */ 
+
+}
+
+.sub-contenido-main {
+  width: 100%;
+  height: auto;
+  display: flex;  
+  box-shadow: 0 3px 13px 1px rgb(0 0 0 / 9%);
+  background-image: url('./imagenes/foto-camion.jpg' );   
+  align-items: center;
+  justify-content: space-between;
+  background-color: white;
+  
+      
+} 
+
+.sub-contenido {
+  width: 100%;
+  height: auto;
+  display: grid; 
+  align-items:flex-start;
+  justify-content: center;
+  background-color:black;
+  box-shadow: 0 3px 13px 1px rgb(0 0 0 / 9%);
+  padding-top: 50px;
+  padding-bottom: 50px; 
+  grid-template-columns: 1fr 1fr 1fr 1fr; 
+  
+  
+}
+
+.sub-contenido-investigacion {
+  width: 100%;
+  height: auto;
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  background-color:white;
+  box-shadow: 0 3px 13px 1px rgb(0 0 0 / 9%);
+  background-image: url('./imagenes/Imagen11.jpg' );
+  padding: 50px;
+  color: white;
+
+}
+
+@media screen and (max-width:800px) {
+  .sub-contenido-investigacion {
+    display: inline-block;
+    padding: 0px;
+  }
+}
+
+@media screen and (max-width:800px) {
+  .sub-contenido-main {
+    display: inline-block;
+    padding: 0px;
+  }
+}
+
+@media screen and (max-width:1000px) {
+  .sub-contenido {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }  
+}
+
+@media screen and (max-width:700px) {
+  .sub-contenido {
+    display: inline-block;
+    padding: 0px;
+  }  
+}
+
+@media screen and (max-width:800px) {
+  .Contenedor-principal {
+    display: inline-block;
+    padding: 0px;
+  }
+  
+}
+
+.sub-contenido-nostros {
+  width: 100%;
+  height: auto;
+  display: flex;  
+  box-shadow: 0 3px 13px 1px rgb(0 0 0 / 9%);
+  /* background-image: url('./imagenes/foto-nosotos.png' );  */
+  padding-top: 50px;
+  padding-bottom: 40px;
+  justify-content: center;  
+  padding-left: 40px;
+  padding-right: 40px; 
+  align-content: center;
+  
+}
+
+@media screen and (max-width:800px) {
+  .sub-contenido-nostros {
+    display:inline-block;
+    padding: 0px;    
+    
+}
+     
+ }
+
+
+ .sub-titulos {
+  width: 100%;
+  height: auto;
+  display: flex;  
+  box-shadow: 0 3px 13px 1px rgb(0 0 0 / 9%);
+  background-image: url('./imagenes/foto-nosotros.jpg' ); 
+  padding-top: 50px;
+  padding-bottom: 40px;
+  justify-content: center;  
+  padding-left: 40px;
+  padding-right: 40px; 
+  align-content: center;
+  
+}
+
+@media screen and (max-width:800px) {
+  .sub-titulos {
+    display:inline-block;
+    padding: 0px;    
+    
+}
+     
+ }
+ 
+  

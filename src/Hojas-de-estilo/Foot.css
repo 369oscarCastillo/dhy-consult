@@ -1,0 +1,27 @@
+ .contenedor {
+   font-size: 1rem;
+   margin: 20px;
+   text-align: center;
+ }
+
+ .contenedor-titulo {
+   font-size: 1.3rem;
+   text-align: center;
+   margin-block-end: 15px;
+ }
+
+ .imagen-redes {
+   height: 40px;
+   width: auto;
+   cursor: pointer;
+   margin: 20px 10px 20px 20px;
+ }
+
+ .imagen-redes:hover {
+   background-color: aquamarine;
+ }
+
+ .contenedor-redes {
+  align-content: center;
+  justify-items: center;
+ }

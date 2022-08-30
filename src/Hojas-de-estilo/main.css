@@ -1,0 +1,113 @@
+.contenedor-main {
+    width: 100%;
+    height: auto;
+    background-color:white;
+    background-image: url('../imagenes/foto-camion.jpg' );
+    opacity: 1;
+        
+}
+
+@media screen and (max-width:800px) {
+    .contenedor-main {
+        display: inline-block;
+        margin:0px 0px 5px 0px;
+        width: 80%;
+        padding: 20px;
+    }
+  }
+
+
+.contenedor-texto-main {  
+    max-width: 70%;
+    text-align: center;  
+    padding: 40px;
+    font-family: Lato, sans-serif;
+    font-weight: 400;
+    line-height: 1.5rem;      
+    margin: 50px 50px 50px 60px;
+    /* background-color: #fff; */
+    color:white;
+    border-radius: 5px;
+    /* opacity: 0.6; */
+       
+  }
+
+  
+
+  @media screen and (max-width:800px) {
+    .contenedor-texto-main {
+        display: inline-block;
+        margin:0px;
+        max-width: 100%;
+        padding: 0px;
+        
+    }
+  }
+
+
+  
+  .tema-contenido-main {
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+    
+  }
+  
+  .subtema-main {
+    font-size: 1.3rem;
+    margin-top: 15px;
+    margin-bottom: 30px;
+  }
+  
+  .texto-main{
+    font-size: 1.1rem;
+    text-align: justify;
+  }
+ 
+  /* componente Mainfig*/
+  .contenedor-mainfig {
+    width: 30%;
+    height: auto;
+    /* background-color: rgb(92, 92, 97); */
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    align-items: center;
+    justify-items: center;
+    padding: 20px;
+  }
+
+  @media screen and (max-width:800px) {
+    .contenedor-mainfig {
+        display: inline-block;
+        margin:0px 0px 5px 0px;
+        width: 80%;
+        padding: 20px;
+    }
+  }
+
+
+  .boton-mainfig {
+    height: 90%;
+    width: 90%;
+    margin: 1rem;
+    border-radius: 5px;
+    border: #fff;
+    color: rgb(11, 1, 54);
+    cursor: pointer;
+    font-weight: bold;
+    background-color: white; 
+    margin: 40px 10px 40px 10px;
+         
+  }
+
+
+  @media screen and (max-width:800px) {
+    .boton-mainfig {
+        height: auto;
+        width: 100%;
+        display: inline-block;
+        margin:0px 0px 5px 0px;
+        width: 80%;
+        padding: 20px;
+    }
+  }
+  
