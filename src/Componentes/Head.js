@@ -3,7 +3,7 @@ import "../Hojas-de-estilo/Head.css";
 
 export function Imagen() {
   return (
-    <a href="./">
+    <a href="https://369oscarcastillo.github.io/dhy-consult/">
       <img className="logo" src={require(`../imagenes/logo.jpg`)} alt='logo' title="DHY Mining"/>;
     </a>
   );
@@ -25,7 +25,7 @@ export function Titulos() {
         Investigación
       </a>
       <a className="titulo-texto" href="#contactos">
-        Contactos
+        Contacto
       </a>
     </div>
   );
