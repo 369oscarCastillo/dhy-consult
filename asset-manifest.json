@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/dhy-consult/static/css/main.6c3e0f04.css",
-    "main.js": "/dhy-consult/static/js/main.d7d7542a.js",
+    "main.js": "/dhy-consult/static/js/main.1878e392.js",
     "static/media/foto-nosotros.jpg": "/dhy-consult/static/media/foto-nosotros.e7a41c97f25ba5d10ea7.jpg",
     "static/media/img-first.jpg": "/dhy-consult/static/media/img-first.1ab8cae65eee3ce9001d.jpg",
     "static/media/img-cinco.png": "/dhy-consult/static/media/img-cinco.2600b6a8371c54e240b8.png",
@@ -25,10 +25,10 @@
     "static/media/whatsapp.png": "/dhy-consult/static/media/whatsapp.c0139bed7dc4beda41a1.png",
     "index.html": "/dhy-consult/index.html",
     "main.6c3e0f04.css.map": "/dhy-consult/static/css/main.6c3e0f04.css.map",
-    "main.d7d7542a.js.map": "/dhy-consult/static/js/main.d7d7542a.js.map"
+    "main.1878e392.js.map": "/dhy-consult/static/js/main.1878e392.js.map"
   },
   "entrypoints": [
     "static/css/main.6c3e0f04.css",
-    "static/js/main.d7d7542a.js"
+    "static/js/main.1878e392.js"
   ]
 }
