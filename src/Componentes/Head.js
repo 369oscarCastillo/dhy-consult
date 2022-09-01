@@ -3,7 +3,7 @@ import "../Hojas-de-estilo/Head.css";
 
 export function Imagen() {
   return (
-    <a href="mainpage">
+    <a href="./">
       <img className="logo" src={require(`../imagenes/logo.jpg`)} alt='logo' title="DHY Mining"/>;
     </a>
   );
