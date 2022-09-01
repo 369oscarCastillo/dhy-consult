@@ -10,7 +10,7 @@ import {GiMiningHelmet, GiMining} from "react-icons/gi"
 
 function App() {
   return (
-    <div className="App">
+    <div className="App" id="mainpage">
       <div className="Contenedor-principal">
         <div className="encabezado-pagina">
           <div>
@@ -202,7 +202,7 @@ function App() {
         </div>
 
         <div className="footer">
-          <Formulario></Formulario>
+          <Formulario id="formulario"></Formulario>
           <Pie
             nombre="Servicios"
             cadena1="Planeamiento Mina"

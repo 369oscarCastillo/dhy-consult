@@ -2,19 +2,31 @@ import React, { useState } from "react";
 import "../Hojas-de-estilo/Head.css";
 
 export function Imagen() {
-  return <a href='main'>
-    <img className="logo" src={require(`../imagenes/logo.jpg`)} />;
-  </a>  
+  return (
+    <a href="mainpage">
+      <img className="logo" src={require(`../imagenes/logo.jpg`)} alt='logo' title="DHY Mining"/>;
+    </a>
+  );
 }
 
 export function Titulos() {
   return (
     <div className="titulos">
-      <a className="titulo-texto" href="#nosotros">Nosotros</a>
-      <a className="titulo-texto" href="#servicios">Servicios</a>
-      <a className="titulo-texto" href="#entregables">Entregables</a>
-      <a className="titulo-texto" href="#investigacion">Investigación</a>
-      <a className="titulo-texto" href="#contactos">Contacto</a>
+      <a className="titulo-texto" href="#nosotros">
+        Nosotros
+      </a>
+      <a className="titulo-texto" href="#servicios">
+        Servicios
+      </a>
+      <a className="titulo-texto" href="#entregables">
+        Entregables
+      </a>
+      <a className="titulo-texto" href="#investigacion">
+        Investigación
+      </a>
+      <a className="titulo-texto" href="#contactos">
+        Contacto
+      </a>
     </div>
   );
 }
