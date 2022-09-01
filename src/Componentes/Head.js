@@ -25,7 +25,7 @@ export function Titulos() {
         Investigación
       </a>
       <a className="titulo-texto" href="#contactos">
-        Contacto
+        Contactos
       </a>
     </div>
   );
